@@ -11,7 +11,7 @@ const NavbarComponent = () => {
       >
         <Navbar.Brand>
           <img
-            src="/images/logo-UAD.PNG"
+            src="/images/logo-UAD.png"
             className="mr-3 h-12"
             alt="Logo"
           />
