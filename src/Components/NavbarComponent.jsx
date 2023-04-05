@@ -15,13 +15,13 @@ const NavbarComponent = () => {
             className="mr-3 h-12"
             alt="Logo"
           />
-          <Link to='/dashboard' className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
+          <Link to='/' className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
             PT. LOREM IPSUM
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse>
-          <Link to='/dashboard'>
+          <Link to='/'>
             Dashboard
           </Link>
           <Link to='/about'>

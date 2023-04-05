@@ -13,7 +13,7 @@ const FooterComponent = () => {
               name="Mahardhika"
             />
             <Footer.LinkGroup>
-              <Link to='/dashboard' className="mx-3">
+              <Link to='/' className="mx-3">
                 Dashboard
               </Link>
               <Link to='/about' className="mx-3">
